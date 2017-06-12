@@ -1,0 +1,10 @@
+
+*.txt
+*.gzip
+2_GZIP.jar
+2_LZARI.jar
+2_LZSS.jar
+*.lzw
+*.lzari
+*.lzss
+*.pdf
